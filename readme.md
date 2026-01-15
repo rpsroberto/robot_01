@@ -52,7 +52,7 @@ curso-robot/
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/rpsroberto/robot_01
 cd curso-robot
 ```
 
